@@ -129,7 +129,6 @@ plugins:
     enabled: true
     options:
       folderDefaultState: open
-      useSavedState: false
       folderClickBehavior: collapse
       title: Content
     layout:
