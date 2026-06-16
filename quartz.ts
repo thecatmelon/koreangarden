@@ -5,7 +5,7 @@ import * as ExternalPlugin from "./.quartz/plugins"
 ExternalPlugin.Explorer({
   filterFn: (node) => {
     // set containing names of everything you want to filter out
-    const omit = new Set(["remove this"])
+    const omit = new Set(["remove this", "tags"])
  
     // can also use node.slug or by anything on node.data
     // note that node.data is only present for files that exist on disk
