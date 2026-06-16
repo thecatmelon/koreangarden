@@ -68,7 +68,7 @@ plugins:
     enabled: true
     order: 40
   - source: github:quartz-community/table-of-contents
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -130,7 +130,7 @@ plugins:
     options:
       folderDefaultState: open
       folderClickBehavior: collapse
-      title: Content
+      title: 🏡 Home
     layout:
       position: left
       priority: 50
@@ -158,7 +158,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: github:quartz-community/content-meta
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
@@ -202,8 +202,9 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Website: https://thecatmelon.com/
+        Youtube: http://youtube.com/thecatmelon?view_as=subscriber?sub_confirmation=1
+        Instagram: https://www.instagram.com/thecatmelon
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
