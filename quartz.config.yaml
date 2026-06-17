@@ -129,7 +129,7 @@ plugins:
     enabled: true
     options:
       folderDefaultState: open
-      folderClickBehavior: link
+      folderClickBehavior: collapse
       title: 🏡 Home
       useSavedState: false
     layout:
