@@ -1,0 +1,1 @@
+This is a list of all the resources that I have used or am planning to use at some point in my Korean learning journey
