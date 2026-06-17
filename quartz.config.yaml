@@ -16,15 +16,15 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Cute Font
+      body: Inconsolata
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
+        light: "#f4f4f4"
+        lightgray: "#382A3C"
+        gray: "#382A3C"
+        darkgray: "#382A3C"
         dark: "#2b2b2b"
         secondary: "#284b63"
         tertiary: "#84a59d"

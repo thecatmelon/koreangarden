@@ -1,3 +1,4 @@
+Resources specifically for grammar, building vocabulary, and cultural nuances
 ## Apps
 - [Lingodeer](https://www.lingodeer.com/)
 	- ~~Korean 1~~ completed December 2025
