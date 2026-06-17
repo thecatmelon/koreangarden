@@ -2,3 +2,7 @@
 
 // put your custom CSS here!
 li li .folder-container div>button span  {font-size: 0.9rem;}
+
+.page-title, h1 {
+    font-family: var(--titleFont) !important;
+}
