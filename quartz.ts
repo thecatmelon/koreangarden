@@ -12,6 +12,20 @@ ExternalPlugin.Explorer({
     // (e.g. implicit folder nodes that have no associated index.md)
     return !omit.has(node.displayName.toLowerCase())
   },
+  sortFn: (a, b) => {
+    if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+      return a.displayName.localeCompare(b.displayName, undefined, {
+        numeric: true,
+        sensitivity: "base",
+      })
+    }
+ 
+    if (!a.isFolder && b.isFolder) {
+      return -1
+    } else {
+      return 1
+    }
+  },
 })
 
 const config = await loadQuartzConfig()
