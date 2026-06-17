@@ -1,5 +1,5 @@
 ## Beginner Comprehensible Input (A0-A1/A2)
-Source: https://www.reddit.com/r/BeginnerKorean/comments/1hwntzc/complete_beginner_comprehensible_input_resources/
+Source: [Complete Beginner Comprehensible Input Resources (Reddit)](https://www.reddit.com/r/BeginnerKorean/comments/1hwntzc/complete_beginner_comprehensible_input_resources/)
 
 1. [태웅쌤 - Comprehensible Input Korean](https://www.youtube.com/@ComprehensibleInputKorean)’s [[Lv.A0] Complete Zero Beginner Korean Course](https://www.youtube.com/playlist?list=PLq3xYXNB0JzCwKxuSvTfErWMyr1Io3nmV): 9 hours; modeled after Comprehensible Thai’s playlist!
 2. [Delicious Korean](https://www.youtube.com/@delicious_korean)'s [A0 playlist](https://www.youtube.com/playlist?list=PLX4sCi4jjuqrUjr2QojxYpxlD-KIhwVMO): 2-3 hours; thanks u/[fnaskpojken](https://www.reddit.com/user/fnaskpojken/)! 
@@ -27,9 +27,12 @@ Source: https://www.reddit.com/r/BeginnerKorean/comments/1hwntzc/complete_beginn
 
 ## Audio courses
 
-
+### Talk to Me In Korean
+- IYAGI (beginner) - Listening in 100% Natural Korean
+- K-Word Showdown
+- Korean Drama Phrases
 ## Dubbed shows
-
-[Avatar: the Last Airbender Season 1](https://anilife.live/detail/id/1324)
-[Avatar: the Last Airbender Season 2](https://anilife.live/detail/id/1325)
-[Avatar: the Last Airbender Season 3](https://anilife.live/detail/id/1326)
+### Avatar the Last Airbender
+- [Season 1](https://anilife.live/detail/id/1324)
+- [Season 2](https://anilife.live/detail/id/1325)
+- [Season 3](https://anilife.live/detail/id/1326)
