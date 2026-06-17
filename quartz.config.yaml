@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Karla
       title: Cute Font
+      header: Karla
       body: Inconsolata
       code: IBM Plex Mono
     colors:
@@ -103,6 +103,8 @@ plugins:
     enabled: true
     options:
       fontOrigin: googleFonts
+      title:
+        name: Cute Font
       body:
         name: Inconsolata
         weights: [400, 600, 700]
@@ -110,8 +112,6 @@ plugins:
       header:
         name: Karla
         weights: [400, 700]
-      title:
-        name: Cute Font
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
