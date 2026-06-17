@@ -5,7 +5,7 @@ import * as ExternalPlugin from "./.quartz/plugins"
 ExternalPlugin.Explorer({
   filterFn: (node) => {
     // set containing names of everything you want to filter out
-    const omit = new Set(["Anki Cards", "Tag Index"])
+    const omit = new Set(["Anki Cards"])
  
     // can also use node.slug or by anything on node.data
     // note that node.data is only present for files that exist on disk
