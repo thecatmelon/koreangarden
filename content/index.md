@@ -8,7 +8,7 @@ This is my Korean digital garden where I log my work done in self-learning the K
 ## How to navigate
 
 ### Anki Cards
-This section contains the notes that I use to make each Anki note. I use Anki purely for building vocabulary and becoming familiar with common phrases. Each note represents an Anki note, and typically each note in Anki will automatically create several cards.
+I use Anki purely for building vocabulary and becoming familiar with different phrases. Each note represents an Anki note, and typically each note in Anki will automatically create several cards.
 ### Notes
 Where I put grammar/theory notes
 ### Resources
