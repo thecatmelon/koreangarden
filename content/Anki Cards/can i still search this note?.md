@@ -1,0 +1,4 @@
+---
+tags:
+- vocabulary: noun
+---
