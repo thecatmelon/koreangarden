@@ -13,12 +13,6 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: googleFonts
-    cdnCaching: true
-    typography:
-      header: Cute Font
-      body: Inconsolata
-      code: IBM Plex Mono
     colors:
       lightMode:
         light: "#f4f4f4"
