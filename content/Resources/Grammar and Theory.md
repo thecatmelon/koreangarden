@@ -15,3 +15,6 @@ Resources specifically for grammar, building vocabulary, and cultural nuances
 	- Book 2
 - [Korean Slang Expressions](https://store.talktomeinkorean.com/products/korean-slang-expressions)
 - [Everyday Korean Idiomatic Expressions](https://store.talktomeinkorean.com/products/everyday-korean-idiomatic-expressions)
+
+this is just a backlinks test
+[[Reading]]
