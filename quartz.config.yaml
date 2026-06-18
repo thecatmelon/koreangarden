@@ -69,7 +69,7 @@ plugins:
     enabled: true
     order: 40
   - source: github:quartz-community/table-of-contents
-    enabled: false
+    enabled: true
     order: 50
     layout:
       position: right
@@ -152,6 +152,7 @@ plugins:
     layout:
       position: right
       priority: 50
+      condition: not-index
   - source: github:quartz-community/search
     enabled: true
     layout:
