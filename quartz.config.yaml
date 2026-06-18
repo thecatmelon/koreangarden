@@ -151,7 +151,7 @@ plugins:
     enabled: true
     layout:
       position: right
-      priority: 10
+      priority: 50
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -164,7 +164,7 @@ plugins:
     enabled: true
     layout:
       position: right
-      priority: 50
+      priority: 10
   - source: github:quartz-community/article-title
     enabled: true
     layout:
