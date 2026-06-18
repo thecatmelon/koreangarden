@@ -142,7 +142,7 @@ plugins:
     options:
       folderDefaultState: open
       folderClickBehavior: collapse
-      title: 🧠 내용물
+      title: 내용물
       useSavedState: false
     layout:
       position: left
