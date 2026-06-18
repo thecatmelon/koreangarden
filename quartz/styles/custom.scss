@@ -21,6 +21,11 @@ padding: 2rem
 
 .graph>.graph-outer {
 border: none
+height: 150px;
+}
+
+ul.tags > li > a {
+    font-size: 0.8rem;
 }
 
 @media not (max-width: 800px) {

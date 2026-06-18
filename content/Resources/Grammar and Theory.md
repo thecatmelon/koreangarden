@@ -21,5 +21,8 @@ Resources specifically for grammar, building vocabulary, and cultural nuances
 - [Korean Slang Expressions](https://store.talktomeinkorean.com/products/korean-slang-expressions)
 - [Everyday Korean Idiomatic Expressions](https://store.talktomeinkorean.com/products/everyday-korean-idiomatic-expressions)
 
+## Misc
+- [University of British Columbia Legacy Resources/Course Material](https://korean.sites.olt.ubc.ca/courses/)
+
 this is just a backlinks test
 [[Reading]]
