@@ -16,13 +16,13 @@ ExternalPlugin.Explorer({
     return a.displayName.localeCompare(b.displayName)
   },
   mapFn: (node) => {
-    if (node.displayName = "Anki Cards") {
+    if (node.displayName == "Anki Cards") {
       node.displayName = "🃏 " + node.displayName
     }
-    if (node.displayName = "Resources") {
+    if (node.displayName == "Resources") {
       node.displayName = "🌐 " + node.displayName
     }
-    if (node.displayName = "Notes") {
+    if (node.displayName == "Notes") {
       node.displayName = "📝 " + node.displayName
     }
     else {
