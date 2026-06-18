@@ -1,61 +1,78 @@
-@use "./variables.scss" as *;
-
 :root {
-  --linear-background: linear-gradient(180deg, rgba(255, 211, 226, 1), rgba(168, 255, 195, 1) 100%);
+--linear-background: linear-gradient(180deg, #ffd3e2, #a8ffc3 100%)
 }
 
-// put your custom CSS here!
 li li .folder-container div>button span {
-    font-size: .9rem
+font-size: .9rem
 }
 
 .page-title,.use-title-font {
-    font-family: var(--titleFont)!important
+font-family: var(--titleFont)!important
 }
 
-.graph, .backlinks {
-    background: linear-gradient(180deg, rgba(255, 211, 226, 1), rgba(168, 255, 195, 1) 100%);
-    box-shadow: 0px 6px 0 0 var(--gray);
-    border-radius: 1rem;
-    padding: 2rem;
-    border:2px solid var(--gray);
-    height: fit-content;
+.graph,.backlinks {
+box-shadow: 0px 6px 0 0 var(--gray);
+border: 2px solid var(--gray);
+background: linear-gradient(#ffd3e2,#a8ffc3 100%);
+border-radius: 1rem;
+height: fit-content;
+padding: 2rem
 }
 
 .graph>.graph-outer {
-    border: none;
+border: none
 }
 
 @media not (max-width: 800px) {
-    .page>#quartz-body .sidebar.left {
-        border:2px solid var(--gray);
-        /* height:calc(100vh - 2rem); */
-        box-shadow: 0px 6px 0 0 var(--gray);
-        border-radius: 1rem;
-        align-content: flex-start;
-        margin: 2rem 1rem 2rem 2rem ;
-        padding-top: 2rem;
-        transition-property: border,box-shadow;
-        transition-duration: .3s;
-        transition-timing-function: ease-in;
-        top: 1rem;
-        background: var(--linear-background);
-        height: calc(100vh - 4rem);
-    }
-    .page>#quartz-body .sidebar.right, .page>#quartz-body .sidebar.right {
-        padding-top: 2rem;
-    }
-    .page>#quartz-body .page-header {
-        margin-top: 3rem;
-    }
+.page>#quartz-body .sidebar.left {
+    border:2px solid var(--gray);
+    box-shadow: 0px 6px 0 0 var(--gray);
+    background: var(--linear-background);
+    border-radius: 1rem;
+    align-content: flex-start;
+    height: calc(100vh - 4rem);
+    margin: 2rem 1rem 2rem 2rem;
+    padding-top: 2rem;
+    transition-property: border,box-shadow;
+    transition-duration: .3s;
+    transition-timing-function: ease-in;
+    top: 1rem
+}
+
+.page>#quartz-body .sidebar.right,.page>#quartz-body .sidebar.right {
+    padding-top: 2rem
+}
+
+.page>#quartz-body .page-header {
+    margin-top: 3rem
+}
 }
 
 @media not (min-width: 1200px) {
     .page>#quartz-body .sidebar.right {
-        display: block;
-        padding-top: 0;
+        padding-top:0;
+        display: block
     }
-    .graph, .backlinks {
-        margin: 2rem 0;
+
+    .graph,.backlinks {
+        margin: 2rem 0
+    }
+}
+
+    @media (max-width: 800px) {
+    .page>#quartz-body .sidebar.right, .page>#quartz-body .center {
+        padding: 0 2rem;
+    }
+    .page>#quartz-body {
+        padding: 0;
+    }
+    .explorer:not(.collapsed)>.explorer-content, .page>#quartz-body .sidebar.left:has(.explorer) {
+        background: var(--linear-background)
+    }
+    .explorer:not(.collapsed)>.explorer-content, .page>#quartz-body .sidebar.left:has(.explorer) {
+        background: var(--linear-background);
+    }
+    .explorer:not(.collapsed)>.explorer-content ul.explorer-ul {
+        padding: 0 1rem;
     }
 }
