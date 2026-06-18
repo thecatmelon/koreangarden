@@ -27,6 +27,7 @@ li li .folder-container div>button span {
         transition-timing-function: ease-in;
         top: 1rem;
         background: var(--linear-background);
+        height: fit-content;
     }
     .page>#quartz-body .sidebar.right, .page>#quartz-body .sidebar.right {
         padding-top: 2rem;
@@ -36,12 +37,19 @@ li li .folder-container div>button span {
     }
 }
 
+@media all and ($tablet) {
+    .page>#quartz-body .sidebar.left {
+        height: calc(100vh-4rem);
+    }
+}
+
 .graph, .backlinks {
     background: linear-gradient(180deg, rgba(255, 211, 226, 1), rgba(168, 255, 195, 1) 100%);
     box-shadow: 0px 6px 0 0 var(--gray);
     border-radius: 1rem;
     padding: 2rem;
     border:2px solid var(--gray);
+    height: fit-content;
 }
 
 .graph>.graph-outer {
