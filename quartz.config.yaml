@@ -140,7 +140,7 @@ plugins:
   - source: github:quartz-community/explorer
     enabled: true
     options:
-      folderDefaultState: open
+      folderDefaultState: collapsed
       folderClickBehavior: collapse
       title: 내용물
       useSavedState: false
