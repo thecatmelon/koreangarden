@@ -36,9 +36,3 @@ Source: [Complete Beginner Comprehensible Input Resources (Reddit)](https://www.
 - [Season 1](https://anilife.live/detail/id/1324)
 - [Season 2](https://anilife.live/detail/id/1325)
 - [Season 3](https://anilife.live/detail/id/1326)
-
-this is just a backlinks test
-[[Reading]]
-
-#### testing tags
-source: #resource/500-Basic-Korean-Verbs 
