@@ -1,8 +1,9 @@
 ---
 tags:
-  - resources/test
+  - resource/500-Basic-Korean-Verbs
 ---
 Resources specifically for grammar, building vocabulary, and cultural nuances
+#resource/500-Basic-Korean-Verbs 
 ## Apps
 - [Lingodeer](https://www.lingodeer.com/)
 	- ~~Korean 1~~ completed December 2025
