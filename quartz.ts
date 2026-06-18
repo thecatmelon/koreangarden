@@ -12,9 +12,7 @@ ExternalPlugin.Explorer({
     // (e.g. implicit folder nodes that have no associated index.md)
     return !omit.has(node.displayName.toLowerCase())
   },
-  sortFn: (a, b) => {
-    return a.displayName.localeCompare(b.displayName)
-  },
+  //it still alphabetizes based on emoji so no real reason to have this instead of doing it in obsidian
   mapFn: (node) => {
     if (node.displayName == "Anki Cards") {
       node.displayName = "🃏 " + node.displayName
@@ -29,9 +27,11 @@ ExternalPlugin.Explorer({
       node.displayName = node.displayName
     }
   },
+  sortFn: (a, b) => {
+    return a.displayName.localeCompare(b.displayName)
+  },
 })
 
 const config = await loadQuartzConfig()
 export default config
 export const layout = await loadQuartzLayout()
-
