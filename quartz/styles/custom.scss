@@ -62,15 +62,13 @@ border: none
     @media (max-width: 800px) {
     .page>#quartz-body .sidebar.right, .page>#quartz-body .center {
         padding: 0 2rem;
+        width: 100%;
     }
     .page>#quartz-body {
         padding: 0;
     }
     .explorer:not(.collapsed)>.explorer-content, .page>#quartz-body .sidebar.left:has(.explorer) {
         background: var(--linear-background)
-    }
-    .explorer:not(.collapsed)>.explorer-content, .page>#quartz-body .sidebar.left:has(.explorer) {
-        background: var(--linear-background);
     }
     .explorer:not(.collapsed)>.explorer-content ul.explorer-ul {
         padding: 0 1rem;
