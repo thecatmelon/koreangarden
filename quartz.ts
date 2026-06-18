@@ -15,6 +15,20 @@ ExternalPlugin.Explorer({
   sortFn: (a, b) => {
     return a.displayName.localeCompare(b.displayName)
   },
+  mapFn: (node) => {
+    if (node.displayName = "Anki Cards") {
+      node.displayName = "🃏 " + node.displayName
+    }
+    if (node.displayName = "Resources") {
+      node.displayName = "🌐 " + node.displayName
+    }
+    if (node.displayName = "Notes") {
+      node.displayName = "📝 " + node.displayName
+    }
+    else {
+      node.displayName = node.displayName
+    }
+  },
 })
 
 const config = await loadQuartzConfig()
