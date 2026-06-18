@@ -52,6 +52,14 @@ border: none
     border-left: 1px dashed var(--lightgray);
 }
 
+.explorer button.desktop-explorer {
+    pointer-events: none;
+}
+
+.explorer .fold {
+    display: none;
+}
+
 @media not (min-width: 1200px) {
     .page>#quartz-body .sidebar.right {
         padding-top:0;
