@@ -61,6 +61,20 @@ border: none
     display: none;
 }
 
+ul.tags li:first-child:before {
+    content: "Tags";
+    display: block;
+    font-family: var(--headerFont);
+    color: var(--dark);
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.page-listing ul.tags {
+    display: none;
+}
+
 @media not (min-width: 1200px) {
     .page>#quartz-body .sidebar.right {
         padding-top:0;
