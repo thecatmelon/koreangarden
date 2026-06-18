@@ -39,3 +39,6 @@ Source: [Complete Beginner Comprehensible Input Resources (Reddit)](https://www.
 
 this is just a backlinks test
 [[Reading]]
+
+#### testing tags
+source: #resource/500-Basic-Korean-Verbs 

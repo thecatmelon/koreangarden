@@ -39,6 +39,10 @@ border: none
     top: 1rem
 }
 
+.page>#quartz-body .sidebar.right {
+    height: calc(100vh - 4rem);
+}
+
 .page>#quartz-body .sidebar.right,.page>#quartz-body .sidebar.right {
     padding-top: 2rem
 }
