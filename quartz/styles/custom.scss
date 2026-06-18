@@ -60,9 +60,9 @@ border: none
 }
 
     @media (max-width: 800px) {
-    .page>#quartz-body .sidebar.right, .page>#quartz-body .center {
+    .page>#quartz-body .sidebar.right, .page>#quartz-body .center, .page>#quartz-body footer {
         padding: 0 2rem;
-        width: 100%;
+        min-width: auto;
     }
     .page>#quartz-body {
         padding: 0;
