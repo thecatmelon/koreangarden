@@ -1,25 +1,49 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
-li li .folder-container div>button span  {font-size: 0.9rem;}
+:root {
+  --linear-background: linear-gradient(180deg, rgba(255, 211, 226, 1), rgba(168, 255, 195, 1) 100%);
+}
 
-.page-title, .use-title-font {
-    font-family: var(--titleFont) !important;
+// put your custom CSS here!
+li li .folder-container div>button span {
+    font-size: .9rem
+}
+
+.page-title,.use-title-font {
+    font-family: var(--titleFont)!important
 }
 
 @media not (max-width: 800px) {
     .page>#quartz-body .sidebar.left {
-        border: 2px solid var(--gray);
-        height: calc(100vh - 2rem);
+        border:2px solid var(--gray);
+        /* height:calc(100vh - 2rem); */
         box-shadow: 0px 6px 0 0 var(--gray);
         border-radius: 1rem;
         align-content: flex-start;
-        margin: 1rem;
+        margin: 2rem 1rem 2rem 2rem ;
+        padding-top: 2rem;
         transition-property: border,box-shadow;
         transition-duration: .3s;
         transition-timing-function: ease-in;
         top: 1rem;
-        padding-top: 2rem;
-
+        background: var(--linear-background);
     }
+    .page>#quartz-body .sidebar.right, .page>#quartz-body .sidebar.right {
+        padding-top: 2rem;
+    }
+    .page>#quartz-body .page-header {
+        margin-top: 3rem;
+    }
+}
+
+.graph, .backlinks {
+    background: linear-gradient(180deg, rgba(255, 211, 226, 1), rgba(168, 255, 195, 1) 100%);
+    box-shadow: 0px 6px 0 0 var(--gray);
+    border-radius: 1rem;
+    padding: 2rem;
+    border:2px solid var(--gray);
+}
+
+.graph>.graph-outer {
+    border: none;
 }
