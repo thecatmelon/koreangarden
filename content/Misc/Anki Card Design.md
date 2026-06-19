@@ -1,10 +1,15 @@
-## Philosophy
-
-
+- I am using Anki strictly for vocabulary building
+- A single Anki note makes three cards:
+	- **Passive**: Korean -> Image
+	- **Active**: Image -> Korean
+	- **Context**: a sentence using the target word
+	- [for info on passive vs active vocabulary](https://www.geeksforgeeks.org/english/difference-between-active-and-passive-vocabulary/)
+- Cards use minimal English (inspired by Fluent Forever)
+	- Any translations are hidden by default on the card's back using HTML `<details>` element (see below for code)
 
 ## Note Contents
 
-NOTE: I really wanted to have 3 cards automatically made with one Anki note. But it wasn't possible to make multiple cards if I made my Korean note based off a cloze card. As a result, this note is based off the Basic note type, and each "part" of a cloze field was separated so I could still type and check against specific things. I kept getting errors using regular cloze syntax with the Basic card type, so did it this way just to avoid seeing errors (didn't think it was smart to YOLO with errors as future updates might break my cards).
+NOTE: I really wanted to have 3 cards automatically made with one Anki note (for ease). But it wasn't possible to make multiple cards if I made my Korean note based off a cloze card. As a result, this note is based off the Basic note type, and each "part" of a cloze field was separated so I could still type and check against specific things. I kept getting errors using regular cloze syntax with the Basic card type, so did it this way just to avoid seeing errors (didn't think it was smart to YOLO with errors as future updates might break my cards).
 ### Fields
 
 ![[Pasted image 20260619132635.png]]
