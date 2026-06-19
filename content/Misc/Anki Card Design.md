@@ -1,11 +1,18 @@
 - I am using Anki strictly for vocabulary building
+- Cards do not show English by default (inspired by [Fluent Forever](https://bookshop.org/p/books/fluent-forever-revised-edition-how-to-learn-any-language-fast-and-never-forget-it-gabriel-wyner/b3c835af26a96de2?ean=9780593797495&next=t))
+	- Any translations are hidden by default on the card's back using HTML `<details>` element (see below for code). I view translations when necessary
+- Cards have a hint hidden on the card front (again, using HTML `<details>` element) if I require some help/context. Hint is a contextual sentence
+	- This was mostly added for homonyms. Idea: seeing the context around the word can help differentiate which "version" of the word the card was made for
 - A single Anki note makes three cards:
 	- **Passive**: Korean -> Image
 	- **Active**: Image -> Korean
 	- **Context**: a sentence using the target word
 	- [for info on passive vs active vocabulary](https://www.geeksforgeeks.org/english/difference-between-active-and-passive-vocabulary/)
-- Cards use minimal English (inspired by Fluent Forever)
-	- Any translations are hidden by default on the card's back using HTML `<details>` element (see below for code)
+- How I click the buttons (I liked [this reddit comment](https://www.reddit.com/r/Anki/comments/17pe5pe/comment/k84qm2h/)):
+	- **Easy**: answered correctly with no hesitation
+	- **Good**: answered correctly with a little bit of hesitation
+	- **Hard**: answer was partially correct and/or hesitated a lot
+	- **Again**: answer was completely incorrect
 
 ## Note Contents
 
@@ -94,7 +101,7 @@ max-width: 80%;
 ```
 
 ### Active
-
+- Answer needs to be typed in to review spelling as well (incorrect spelling = click "hard")
 #### Card code
 
 ##### Front
@@ -132,7 +139,8 @@ max-width: 80%;
 ```
 
 ### Context
-
+- This card is also meant to passively review knowledge of grammar structures
+	- ex: if target word is a verb, context sentence can be conjugated in different verb tenses. Since I have to type in the word, I am reviewing proper conjugation/spelling.
 #### Card code
 
 ##### Front
