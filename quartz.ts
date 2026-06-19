@@ -23,6 +23,10 @@ ExternalPlugin.Explorer({
     if (node.displayName == "Notes") {
       node.displayName = "📝 " + node.displayName
     }
+    if (node.displayName == "Misc") {
+      node.displayName = "🗄️ " + node.displayName
+    }
+
     else {
       node.displayName = node.displayName
     }
