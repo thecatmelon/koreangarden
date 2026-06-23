@@ -15,3 +15,22 @@ All my grammar/theory/cultural notes I've compiled over the years.
 A list of all the resources that I have used or am planning to use at some point in my Korean learning journey
 ### Misc
 Other bits of information that are more tangentially related to my language learning
+
+<script>
+function randomCard() {
+fetch("https://thecatmelon.github.io/koreangarden/sitemap.xml")
+        .then((response) => response.text())
+        .then((xmlString) => {
+            const parser = new DOMParser();
+            const xmlDoc = parser.
+                parseFromString(xmlString, "text/xml");
+            const tutorials = xmlDoc.
+                querySelectorAll("url");
+                const random = Math.floor(Math.random() * tutorials.length);
+                const randomURL = tutorials[random].querySelector("loc").textContent();
+                console.log(random, randomURL);
+                open(randomURL);
+        });
+    }
+    </script>
+<input type="button" value="random card" onclick="randomCard();"/>
