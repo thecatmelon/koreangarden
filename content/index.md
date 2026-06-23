@@ -27,9 +27,9 @@ fetch("https://thecatmelon.github.io/koreangarden/sitemap.xml")
             const tutorials = xmlDoc.
                 querySelectorAll("url");
                 const random = Math.floor(Math.random() * tutorials.length);
-                const randomURL = tutorials[random].querySelector("loc").textContent();
-                console.log(random, randomURL);
-                open(randomURL);
+                const randomURL = tutorials[random].querySelector("loc").textContent;
+                console.log(randomURL);
+                open(randomURL, '_self');
         });
     }
     </script>
