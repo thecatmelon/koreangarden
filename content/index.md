@@ -18,7 +18,7 @@ Other bits of information that are more tangentially related to my language lear
 
 <script>
 function randomCard() {
-fetch("https://thecatmelon.github.io/koreangarden/sitemap.xml")
+fetch("https://koreangarden.thecatmelon.com/sitemap.xml")
         .then((response) => response.text())
         .then((xmlString) => {
             const parser = new DOMParser();
