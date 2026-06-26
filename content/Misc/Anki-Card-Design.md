@@ -1,3 +1,6 @@
+---
+title: Anki Card Design
+---
 - I am using Anki strictly for vocabulary building
 - Cards do not show English by default (inspired by [Fluent Forever](https://bookshop.org/p/books/fluent-forever-revised-edition-how-to-learn-any-language-fast-and-never-forget-it-gabriel-wyner/b3c835af26a96de2?ean=9780593797495&next=t))
 	- Any translations are hidden by default on the card's back using HTML `<details>` element (see below for code). I view translations when necessary
