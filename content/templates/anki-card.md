@@ -1,9 +1,8 @@
 ---
 tags:
-title: Anki Card Template
+title: "Korean : English (title)"
 draft: "true"
 ---
-# Korean : English (title)
 (place audio)
 (image)
 ## Context

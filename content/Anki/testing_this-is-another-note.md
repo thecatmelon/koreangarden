@@ -1,9 +1,9 @@
 ---
 tags:
-title: Testing | This is another note
+  - verbs
+title: "Korean : English (title)"
 draft: "false"
 ---
-# Korean : English (title)
 (place audio)
 (image)
 ## Context
