@@ -1,9 +1,8 @@
 ---
 tags:
+  - verbs
 title: "Korean : English (title)"
-draft: "true"
-date: YYYY-MM-DD
-last_updated: YYYY-MM-DD
+draft: "false"
 ---
 (place audio)
 (image)
