@@ -26,6 +26,9 @@ ExternalPlugin.Explorer({
     if (node.displayName == "Misc") {
       node.displayName = "🗄️ " + node.displayName
     }
+    if (node.displayName == "Tags") {
+      node.displayName = "🏷️ " + node.displayName
+    }
 
     else {
       node.displayName = node.displayName

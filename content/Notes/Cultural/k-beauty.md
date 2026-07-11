@@ -1,6 +1,6 @@
 ---
 tags:
-  - resource/lingodeer/korean-2/appearance
+  - reference/lingodeer/korean2/appearance
 title: k-beauty (vocab)
 draft: "false"
 date: 2026-07-10
