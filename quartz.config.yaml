@@ -179,7 +179,7 @@ plugins:
   - source: github:quartz-community/tag-list
     enabled: true
     layout:
-      position: right
+      position: afterBody
       priority: 40
   - source: github:quartz-community/page-title
     enabled: true
