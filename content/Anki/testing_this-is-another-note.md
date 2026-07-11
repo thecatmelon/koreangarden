@@ -1,6 +1,6 @@
 ---
 tags:
-  - anki/verbs
+  - verbs
 title: "Korean : English (title)"
 draft: "false"
 ---

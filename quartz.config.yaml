@@ -141,7 +141,7 @@ plugins:
     enabled: true
     options:
       folderDefaultState: collapsed
-      folderClickBehavior: link
+      folderClickBehavior: collapse
       title: 내용물
       useSavedState: false
     layout:
