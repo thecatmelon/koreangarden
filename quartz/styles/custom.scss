@@ -28,6 +28,10 @@ ul.tags > li > a {
     font-size: 0.8rem;
 }
 
+ul.content.tree-item-children {
+    font-size: 0.8rem;
+}
+
 @media not (max-width: 800px) {
 .page>#quartz-body .sidebar.left {
     border:2px solid var(--gray);
