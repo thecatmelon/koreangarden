@@ -200,6 +200,8 @@ plugins:
       group: toolbar
   - source: github:quartz-community/breadcrumbs
     enabled: true
+    options:
+      rootName: 🏡
     layout:
       position: beforeBody
       priority: 5
