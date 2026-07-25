@@ -104,10 +104,15 @@ ul.tags li:first-child:before {
     .page>#quartz-body .sidebar.right {
         padding-top:0;
         display: block
+        margin-right: 1.5rem;
     }
 
     .graph,.backlinks {
         margin: 2rem 0
+    }
+
+    .page>#quartz-body {
+        padding: 0;
     }
 }
 
