@@ -12,4 +12,14 @@ last_updated:
 <div class="context">Translation </div>
 </details>
 
+<details>
+<summary> Korean sentence </summary>
+<div class="context">Translation </div>
+</details>
+
+<details>
+<summary> Korean sentence </summary>
+<div class="context">Translation </div>
+</details>
+
 ## Relevant cards

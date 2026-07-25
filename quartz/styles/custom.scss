@@ -19,6 +19,18 @@ height: fit-content;
 padding: 2rem
 }
 
+details {
+    padding: 1rem 0;
+}
+
+summary {
+    font-size: 1.1rem;
+}
+
+details .context {
+    margin: 1rem;
+}
+
 .graph>.graph-outer {
 border: none;
 height: 150px;
