@@ -6,5 +6,10 @@ date:
 last_updated:
 ---
 
+## Examples
+<details>
+<summary> Korean sentence </summary>
+<div class="context">Translation </div>
+</details>
 
 ## Relevant cards
