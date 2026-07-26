@@ -22,4 +22,5 @@ last_updated:
 <div class="context">Translation </div>
 </details>
 
-## Relevant cards
+## Song Lyrics
+## Related cards

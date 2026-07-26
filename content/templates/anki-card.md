@@ -13,4 +13,4 @@ context in korean
 (audio)
 ## Song lyrics
 
-## Relevant cards
+## Related cards

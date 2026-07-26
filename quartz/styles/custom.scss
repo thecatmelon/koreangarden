@@ -103,19 +103,11 @@ ul.tags li:first-child:before {
 @media not (min-width: 1200px) {
     .page>#quartz-body .sidebar.right {
         padding-top:0;
-        display: block;
-    }
-
-    .page>#quartz-body .page-header, .page>#quartz-body .page-footer {
-        margin-right: 1.5rem;
+        display: block
     }
 
     .graph,.backlinks {
-        margin: 2rem 1.5rem 2rem 0;
-    }
-
-    .page>#quartz-body {
-        padding: 0;
+        margin: 2rem 0
     }
 }
 
