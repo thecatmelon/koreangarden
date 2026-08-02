@@ -19,7 +19,7 @@ height: fit-content;
 padding: 2rem
 }
 
-.search>.search-container>.search-space>.search-layout>.results-container .result-card.focus {
+code, .search>.search-container>.search-space>.search-layout>.results-container .result-card:hover, .search>.search-container>.search-space>.search-layout>.results-container .result-card:focus, .search>.search-container>.search-space>.search-layout>.results-container .result-card.focus {
     background: var(--textHighlight);
 }
 
