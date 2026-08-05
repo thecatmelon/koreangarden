@@ -15,6 +15,5 @@ last_updated:
 Right: 유학 **갔던** 친구들이 다 <u>둘아왔어요</u>
 Wrong: 유학 **가던** 친구들이 다 <u>둘아왔어요</u>
 
-## Related cards
-[[던]]
-[[았-었-였던]]
+## Relevant cards
+[[던]]<br>[[았-었-였던]]

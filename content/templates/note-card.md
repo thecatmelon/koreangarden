@@ -23,4 +23,4 @@ last_updated:
 </details>
 
 ## Song Lyrics
-## Related cards
+## Relevant cards

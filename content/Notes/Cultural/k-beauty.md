@@ -17,5 +17,3 @@ last_updated: 2026-07-10
 | 향수 | fragrance |
 | 회장/메이크업 | makeup |
 | 머리 스타일 | hair style |
-
-## Relevant cards
