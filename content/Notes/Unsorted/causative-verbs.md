@@ -1,6 +1,6 @@
 ---
 tags:
-  - reference/lingodeer/korean2/causativeverb1
+  - reference/lingodeer/korean2/causativeverb12
 title: Causative Verbs
 draft: "false"
 date: 2026-09-04
@@ -37,12 +37,20 @@ last_updated:
 
 ## More Examples
 
-| **General verb**        | **Causative verb**                     |
-| ----------------------- | -------------------------------------- |
-| 보다<br>to see            | 보이다<br>make someone see/show           |
-| 죽다<br>to die            | 죽이다<br>make someone die/kill           |
-| 높다<br>high              | 높이다<br>to increase/make something high |
-| 끓다<br>(something) boil  | 끓이다<br><br>boil (something)            |
-| 녹다<br>(something) melt  | 녹이다<br>melt (something)                |
-| 붙다<br>(something) stick | 붙이다<br>stick (something)               |
-| 줄다<br>decrease          | 줄이다<br>reduce                          |
+| **General verb**                 | **Causative verb**                                  |
+| -------------------------------- | --------------------------------------------------- |
+| 보다<br>to see                     | 보이다<br>make someone see/show                        |
+| 죽다<br>to die                     | 죽이다<br>make someone die/kill                        |
+| 높다<br>high                       | 높이다<br>to increase/make something high              |
+| 끓다<br>(something) boil           | 끓이다<br><br>boil (something)                         |
+| 녹다<br>(something) melt           | 녹이다<br>melt (something)                             |
+| 붙다<br>(something) stick          | 붙이다<br>stick (something)                            |
+| 줄다<br>decrease                   | 줄이다<br>reduce                                       |
+| 알다<br>know                       | 알리다<br>make someone know/tell                       |
+| 듣다<br>listen                     | 들리다<br>make someone listen                          |
+| 울다<br>cry                        | 울리다<br>make someone cry                             |
+| 살다<br>live                       | 살리다<br>make someone alive/save                      |
+| 입다<br>wear                       | 입히다<br>make someone wear/put on clothes for someone |
+| 익다<br>(meat, vegetables) be done | 익히다<br>cook                                         |
+| 밝다<br>bright                     | 밝히다<br>brighten, reveal                             |
+| 넓다<br>wide                       | 넓히다<br>widen/extend                                 |
