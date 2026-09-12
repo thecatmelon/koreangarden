@@ -1,10 +1,10 @@
 ---
 tags:
-  - reference/lingodeer/korean2/causativeverb12
+  - reference/lingodeer/korean2/causativeverb_123
 title: Causative Verbs
 draft: "false"
 date: 2026-09-04
-last_updated:
+last_updated: 2026-09-12
 ---
 ## Basics
 - **causative verb** = a verb that contains the meaning of causing something else to happen.
@@ -54,3 +54,13 @@ last_updated:
 | 익다<br>(meat, vegetables) be done | 익히다<br>cook                                         |
 | 밝다<br>bright                     | 밝히다<br>brighten, reveal                             |
 | 넓다<br>wide                       | 넓히다<br>widen/extend                                 |
+| 남다<br>remain, be left            | 남기다<br>leave, set aside                             |
+| 웃다<br>laugh                      | 웃기다<br>make someone laugh                           |
+| 맡다<br>take care of, manage       | 맡기다<br>make someone to manage, assign               |
+| 벗다<br>take off<br>               | 벗기다<br>undress                                      |
+| 비다<br>empty                      | 비우다<br>make something empty, empty (something)      |
+| 차다<br>be full, be filled         | 채우다<br>fill (something)                             |
+| 깨다<br>(someone) wake up          | 깨우다<br>wake (someone) up                            |
+| 자다<br>sleep                      | 재우다<br>get someone to sleep                         |
+| 낮다<br>low                        | 낮추다<br>lower                                        |
+| 늦다<br>be late, slow              | 늦추다<br>delay, slow down (something)                 |
