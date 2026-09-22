@@ -1,6 +1,6 @@
 ---
 tags:
-  - reference/lingodeer/korean2/passiveverb_1
+  - reference/lingodeer/korean2/passiveverb_12
 title: Passive Verbs
 draft: "false"
 date: 2026-09-17
@@ -18,16 +18,24 @@ last_updated:
 
 ## Examples
 
-| General verb    | Passive verb        |
-| --------------- | ------------------- |
-| 시작하다<br>start   | 시작되다<br>be started  |
-| 예약하다<br>reserve | 예약되다<br>be reserved |
-| 선택하다<br>select  | 선택되다<br>be selected |
-| 이용하다<br>use     | 이용되다<br>be used     |
-| 보다<br>see       | 보이다<br>be seen      |
-| 쓰다<br>use       | 쓰이다<br>be used      |
-| 쌓다<br>pile      | 쌓이다<br>be piled     |
-| 섞다<br>mix       | 섞이다<br>be mixed     |
+| General verb                        | Passive verb              |
+| ----------------------------------- | ------------------------- |
+| 시작하다<br>start                       | 시작되다<br>be started        |
+| 예약하다<br>reserve                     | 예약되다<br>be reserved       |
+| 선택하다<br>select                      | 선택되다<br>be selected       |
+| 이용하다<br>use                         | 이용되다<br>be used           |
+| 보다<br>see                           | 보이다<br>be seen            |
+| 쓰다<br>use                           | 쓰이다<br>be used            |
+| 쌓다<br>pile                          | 쌓이다<br>be piled           |
+| 섞다<br>mix                           | 섞이다<br>be mixed           |
+| 닫다<br>close                         | 닫히다<br>be closed          |
+| 잡다<Br>catch                         | 잡히다<br>be caught          |
+| 업다<br>carry (someone) on one's back | 업히다<br>ride on one's back |
+| 뽑다<br>select                        | 뽑히아<br>be selected        |
+| 듣다<Br>listen, hear                  | 들리다<br>be heard           |
+| 열다<br>open, hold                    | 열리다<br>be open, be held   |
+| 풀다<br>solve                         | 풀리다<br>be solved          |
+| 걸다<br>hang                          | 걸리다<br>be hanged          |
 
 ## The usage of passive verb
 - SPECIFIC NOTE ON PARTICLES: generally the subject (가/이) is the one who does the action and the object (을/를) receives the action
