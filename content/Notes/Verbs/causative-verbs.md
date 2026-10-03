@@ -64,3 +64,9 @@ last_updated: 2026-09-12
 | 자다<br>sleep                      | 재우다<br>get someone to sleep                         |
 | 낮다<br>low                        | 낮추다<br>lower                                        |
 | 늦다<br>be late, slow              | 늦추다<br>delay, slow down (something)                 |
+## Song Lyrics
+때려 넣어 귀에 이거 말리면 <b>죽여</b>
+
+*Blasting it in your ear, try to stop me and I'll take you out*
+
+"Just For Fun" - xikers
