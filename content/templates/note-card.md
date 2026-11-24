@@ -8,17 +8,17 @@ last_updated:
 
 ## Examples
 <details>
-<summary> Korean sentence </summary>
+<summary>Korean sentence <b></b> </summary>
 <div class="context">Translation </div>
 </details>
 
 <details>
-<summary> Korean sentence </summary>
+<summary>Korean sentence <b></b> </summary>
 <div class="context">Translation </div>
 </details>
 
 <details>
-<summary> Korean sentence </summary>
+<summary>Korean sentence <b></b> </summary>
 <div class="context">Translation </div>
 </details>
 
